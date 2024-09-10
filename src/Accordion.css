@@ -1,0 +1,21 @@
+
+.accordion {
+    background-color: rgb(240, 240, 110);
+    border: 1px solid indianred;
+}
+
+.accordion .label-text {
+    padding: 10px;
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+
+.accordion .label-text:hover {
+    background-color: rgb(219, 192, 156);;
+}
+
+.acc-content {
+    padding: 10px;
+}
